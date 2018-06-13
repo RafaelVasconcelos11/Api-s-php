@@ -1,1 +1,1 @@
-Api em PHPOO utilizando Slim framework, com MVC 
+API em PHPOO utilizando Slim framework, com MVC 
